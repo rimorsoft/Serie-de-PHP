@@ -17,6 +17,6 @@ class Person
 
 	function greet()
 	{
-		return 'Hola, cómo estas?';
+		return "Hola, {$this->name} cómo estas?";
 	}
 }
