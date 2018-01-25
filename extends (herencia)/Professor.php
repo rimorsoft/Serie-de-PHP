@@ -1,7 +1,7 @@
 <?php
 
 /**
-* this class represents a person
+* this class represents a person (Professor)
 */
 class Professor extends Person
 {
