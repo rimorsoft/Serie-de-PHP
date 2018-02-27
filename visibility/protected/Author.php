@@ -17,6 +17,6 @@ class Author
     
     public function greet()
     {
-        return "Hola, cómo estás? {$this->name}";
+        return "Hola, cómo estás {$this->name}?";
     }
 }
